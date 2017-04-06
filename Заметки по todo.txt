@@ -1,0 +1,3 @@
+TODO:
+- убрать строку "ini_set('display_errors', 1);" в index.php
+- оставить конфиг. только одной БД
